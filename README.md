@@ -75,8 +75,3 @@ Commit suas alterações (git commit -m "Descrição da feature")
 Push para a branch (git push origin feature/nome)
 
 Abra um Pull Request
-
-Licença
-
-MIT License – veja LICENSE
-.
